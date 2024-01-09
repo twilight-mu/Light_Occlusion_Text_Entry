@@ -18,4 +18,5 @@ This work proposed a new light-occlusion text entry method in MR environment tha
 This work has been published in "International Journal of Human–Computer Interaction" (JCR Q1, IF:4.7)
 
 # About the author
-I am a a master student in the School of Computer Science and Engineering of Beihang University, China. My current research focuses on VR, HCI and CG.
+I am a a master student in the School of Computer Science and Engineering of Beihang University, China. My current research focuses on VR, HCI and CG. If you have any questions, please email me at "sunaoxin@buaa.edu.cn".
+
