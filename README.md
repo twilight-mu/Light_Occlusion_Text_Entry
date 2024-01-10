@@ -20,3 +20,5 @@ This work has been published in "International Journal of Human–Computer Inter
 # About the author
 I am a a master student in the School of Computer Science and Engineering of Beihang University, China. My current research focuses on VR, HCI and CG. If you have any questions, please email me at "sunaoxin@buaa.edu.cn".
 
+# Demonstration Video
+https://www.bilibili.com/video/BV1QK4y1B7LV
